@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: source code
+description: source code and models
+img: assets/img/1.jpg
+redirect: https://github.com/computbiophys
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning

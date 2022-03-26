@@ -2,25 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A computational biophysics group. You can also find us <a href='http://cqb.pku.edu.cn/songgroup/'>here</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  address: >
+#    <p>234 Lv Che Woo Building</p>
+#    <p>Peking University</p>
+#    <p>Beijing</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We aim at revealing the function mechanisms of membrane proteins by using multi-scale computer simulations, in collaboration with experimental studies. Our main interests currently involve the permeation mechanism of ion channels, signaling through membrane-associated proteins, and interaction between antimicrobial peptides and lipid bilayers. We also use machine learning-based methods for the structural and functional studies of membrane proteins.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our ultimate goal is to contribute to membrane protein- or membrane-targeted drug design and optimization, and thereby to improve people’s health at large.

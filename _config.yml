@@ -2,24 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Song Group # the website title (if blank, full name will be used instead)
+first_name: Chen
+middle_name: 
+last_name: SONG
+email: c.song@pku.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://songcgroup.github.io # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -105,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+# You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,14 +123,22 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
+=======
+# blog_name: Group News  # your blog must have a name for it to show up in the nav bar
+#blog_name: # your blog must have a name for it to show up in the nav bar
+#blog_description: a simple whitespace theme for academics
+blog_description: 
+>>>>>>> added people
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
+<<<<<<< HEAD
 related_blog_posts:
   enabled: true
   max_related: 5
@@ -153,6 +160,10 @@ giscus:
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
+=======
+# Comments
+disqus_shortname: # put your disqus shortname
+>>>>>>> added people
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -175,6 +186,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  people:
+    output: true
+    permalink: /people/:path/
 
 announcements:
   enabled: true
@@ -275,10 +289,17 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
+<<<<<<< HEAD
   last_name: [Einstein]
   first_name: [Albert, A.]
+=======
+# last_name: Song
+# first_name: [Chen, C.]
+  last_name: 
+  first_name: 
+>>>>>>> added people
 
-  style: apa
+  style: nature
   locale: en
 
   source: /_bibliography/
@@ -363,8 +384,16 @@ enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
+<<<<<<< HEAD
 enable_navbar_social:       false  # enables displaying social links in the navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into multiple categories
+=======
+enable_navbar_social:       false  # enables displaying social links in the
+                                   # navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into
+enable_people_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+>>>>>>> added people
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 

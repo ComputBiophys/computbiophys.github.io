@@ -58,8 +58,31 @@
                 {%- assign coauthor_url = coauthor.url -%}
                 {%- break -%}
               {%- endif -%}
-            {%- endfor -%}
-          {%- endif -%}
+            {%- else -%}
+              {%- unless forloop.last -%}
+                {% if author_is_self %}
+                  <em>{{author.last}}, {{author.first}}</em>;&nbsp;
+                {%- else -%}
+                  {% if coauthor_url -%}
+                    <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>;&nbsp;
+                  {%- else -%}
+                    {{author.last}}, {{author.first}};&nbsp;
+                  {%- endif -%}
+                {%- endif -%}
+              {%- else -%}
+                {% if author_is_self -%}
+                  and <em>{{author.last}}, {{author.first}}</em>
+                {% else -%}
+                  {%- if coauthor_url -%}
+                    and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>
+                  {% else -%}
+                    and {{author.last}}, {{author.first}}
+                  {%- endif -%}
+                {%- endif -%}
+              {%- endunless -%}
+            {%- endif -%}
+          {%- endfor %}
+          </div>
 
           {%- if forloop.length > 1 -%}
             {%- if forloop.first == false -%},&nbsp;{%- endif -%}
