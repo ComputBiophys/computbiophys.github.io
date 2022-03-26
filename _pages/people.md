@@ -8,6 +8,12 @@ display_categories: [PI, Assistant, Postdocs, Students]
 horizontal: false
 ---
 
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/group_photo.jpg" title="The Group" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <!-- pages/people.md -->
 <div class="projects">
   <!-- Display categorized people -->
