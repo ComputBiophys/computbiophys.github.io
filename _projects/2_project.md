@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: MCP Predictor
+description: MCP prediction web server
 img: assets/img/3.jpg
+redirect: http://www.songlab.cn/
 importance: 2
 category: work
 ---
