@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Song, Chen
-img: assets/img/1.jpg
+title: Chen SONG
+#img: assets/img/1.jpg
 importance: 1
 category: PI
 ---
