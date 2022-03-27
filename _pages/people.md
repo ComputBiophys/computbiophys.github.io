@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: group members
 nav: true
-display_categories: [PI, Assistant, Postdocs, Students]
+display_categories: [PI, Assistant, Postdocs, Graduate Students]
 horizontal: false
 ---
 
@@ -19,20 +19,20 @@ horizontal: false
   <!-- Display categorized people -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_project = site.people | where: "category", category -%}
-  {%- assign sorted_project = categorized_project | sort: "importance" %}
+  {%- assign categorized_people = site.people | where: "category", category -%}
+  {%- assign sorted_people = categorized_people | sort: "importance" %}
   <!-- Generate cards for each people -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_project -%}
+    {%- for project in sorted_people -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_project -%}
+    {%- for project in sorted_people -%}
       {% include projects.html %}
     {%- endfor %}
   </div>
