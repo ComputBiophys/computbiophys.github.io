@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: group members
 nav: true
-display_categories: [PI, Assistant, Postdocs, Graduate Students]
+display_categories: [PI, Secretary, Postdocs, Graduate Students]
 horizontal: false
 ---
 
@@ -26,14 +26,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_people -%}
-      {% include projects_horizontal.html %}
+      {% include people_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_people -%}
-      {% include projects.html %}
+      {% include people.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
