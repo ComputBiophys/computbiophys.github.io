@@ -3,5 +3,5 @@ layout: page
 title: Chunhong LIU
 #img: assets/img/4.jpg
 importance: 1
-category: Students
+category: Graduate Students
 ---

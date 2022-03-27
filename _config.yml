@@ -189,6 +189,9 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
 
 announcements:
   enabled: true
@@ -391,7 +394,10 @@ enable_project_categories:  true   # enables categorization of projects into mul
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
-enable_people_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_people_categories:  true   # enables categorization of people into
+                                   # multiple categories
+enable_resource_categories:  true   # enables categorization of resources into
                                    # multiple categories
 >>>>>>> added people
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
