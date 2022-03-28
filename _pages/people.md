@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: group members
 nav: true
-display_categories: [PI, Secretary, Postdocs, Graduate Students]
+display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
 horizontal: false
 ---
 
