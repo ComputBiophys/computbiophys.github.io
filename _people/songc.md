@@ -21,7 +21,7 @@ Beijing 100871, China
 
 [CV Download](/assets/pdf/CV_SongC.pdf){:target="_blank"}
 
-Email: [c.song@pku.edu.cn](mailto: c.song@pku.edu.cn)  
+Email: c.song_at_pku.edu.cn  
 
 
 
