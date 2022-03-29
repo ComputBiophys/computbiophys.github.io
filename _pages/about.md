@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# social: true  # includes social icons at the bottom of the page
 ---
 
 We aim at revealing the function mechanisms of membrane proteins by using multi-scale computer simulations, in collaboration with experimental studies. Our main interests currently involve the permeation mechanism of ion channels, signaling through membrane-associated proteins, and interaction between antimicrobial peptides and lipid bilayers. We also use machine learning-based methods for the structural and functional studies of membrane proteins.
