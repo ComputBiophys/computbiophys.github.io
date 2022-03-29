@@ -2,7 +2,7 @@
 layout: page
 title: Ca<sup>2+</sup> Channels
 description: model and MD of Ca<sup>2+</sup> Channels
-img: assets/img/1.jpg
+img: assets/img/4.jpg
 #redirect: https://github.com/computbiophys
 importance: 1
 category: work

@@ -2,7 +2,7 @@
 layout: page
 title: Ms Channels
 description: mechanosensitive ion channels
-img: assets/img/3.jpg
+img: assets/img/8.jpg
 #redirect: http://www.songlab.cn/
 importance: 2
 category: work

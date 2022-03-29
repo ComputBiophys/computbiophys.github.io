@@ -2,7 +2,7 @@
 layout: page
 title: Methods
 description: MD & deep learning for proteins 
-img: assets/img/4.jpg
+img: assets/img/9.jpg
 #redirect: http://www.songlab.cn/
 importance: 3
 category: work
