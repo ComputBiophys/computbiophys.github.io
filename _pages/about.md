@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A computational biophysics group led by <strong><a href='https://orcid.org/0000-0001-9730-3216'>Dr. Chen SONG</a></strong>. You can also find us <em><a href='http://cqb.pku.edu.cn/songgroup/'>here</a></em>.
+subtitle: A computational biophysics group led by <strong><a href='https://www.songgroup.org/people/songc/'>Dr. Chen SONG</a></strong>. You can also find us <em><a href='http://cqb.pku.edu.cn/songgroup/'>here</a></em>.
 
 profile:
   align: right
