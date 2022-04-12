@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zefeng Zhu
+title: Zefeng ZHU
 #img: assets/img/4.jpg
 importance: 1
 category: Graduate Students
