@@ -13,7 +13,7 @@ category: Graduate Students
 </div>
 
 Graduate Student  
-Center for Quantitative Biology
+Center for Quantitative Biology  
 Academy for Advanced Interdisciplinary Studies  
 Peking University  
 Beijing 100871, China
