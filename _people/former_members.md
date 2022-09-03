@@ -5,6 +5,8 @@ importance: 1
 category: Former Members
 ---
 
+- **Chunhong LIU**: Graduate Student (CQB), Sep 2016 – July 2022. Chunhong joined BeiGene after leaving the group. 
+- **Hanyuan SUN**: Graduate Student (CLS), Sep 2018 – July 2022. Hanyuan joined Inspur Group after leaving the group.
 - **Yang WANG**: Postdoc, Jul 2018 – Jun 2021. Yang joined Wenzhou Institute, University of Chinese Academy of Sciences, after leaving the group.
 - **Yanyan LIU**: Postdoc, Jan 2018 – Jun 2021. Yanyan joined National Center for Nanoscience and Technology after leaving the group.
 - **Aihua ZHANG**: Research Scientist, Aug 2016 – Mar 2021
