@@ -3,7 +3,7 @@ layout: page
 title: Lei WANG
 #img: assets/img/4.jpg
 importance: 1
-category: Graduate Students
+category: Postdocs
 ---
 
 <div class="row">
