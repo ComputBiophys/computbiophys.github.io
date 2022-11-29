@@ -4,7 +4,7 @@ title: resources
 permalink: /resources/
 description: resources developed in the group
 nav: true
-display_categories: [Models, Servers, Source Code]
+display_categories: [Model & Code, Server]
 horizontal: false
 ---
 
