@@ -18,7 +18,7 @@ Academy for Advanced Interdisciplinary Studies
 Peking University  
 Beijing 100871, China  
 
-Email: wanglei_cqb_at_pku.edu.cn
+Email: wanglei_cqb_at_pku.edu.cn  
 
 ## Research Interests
 - Membrane protein structure prediction and design
@@ -34,7 +34,8 @@ Email: wanglei_cqb_at_pku.edu.cn
 ## Hobbies
 - Billiards
 - Basketball
-- Awards
+
+## Awards
 - 6th National College Student Mathematics Competition, Third prize (2015)
 - Merit student of Beijing University of Chemical Technology (2016)
 - Peking University Freshman Billiards Competition, Team 2nd (2017)
