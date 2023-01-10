@@ -12,13 +12,13 @@ category: Postdocs
     </div>
 </div>
 
-Graduate Student  
+Postdoc
 Center for Quantitative Biology  
 Academy for Advanced Interdisciplinary Studies  
 Peking University  
 Beijing 100871, China  
 
-Email: 1701111453_at_pku.edu.cn
+Email: wanglei_cqb_at_pku.edu.cn
 
 ## Research Interests
 - Membrane protein structure prediction and design
@@ -29,6 +29,7 @@ Email: 1701111453_at_pku.edu.cn
 ## Experience and Education
 - 1994.4, born in Jiujiang, Jiangxi, China
 - B.E., Chemical Engineering and Technology, Beijing University of Chemical Technology, China, 2017
+- Ph.D., Center for Quantitative Biology, Academy for Advanced Interdisciplinary Studies, Peking University, China, 2022
 
 ## Hobbies
 - Billiards
