@@ -12,14 +12,12 @@ category: PI
     </div>
 </div>
 
-Associate Professor with Tenure
+Associate Professor with Tenure  
 Center for Quantitative Biology  
 & Peking-Tsinghua Center for Life Sciences  
 Academy for Advanced Interdisciplinary Studies  
 Peking University  
 Beijing 100871, China
-
-#[CV Download](/assets/pdf/CV_SongC.pdf){:target="_blank"}
 
 Email: c.song_at_pku.edu.cn  
 
