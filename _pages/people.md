@@ -14,6 +14,7 @@ horizontal: false
     </div>
 </div>
 
+
 <!-- pages/people.md -->
 <div class="projects">
   <!-- Display categorized people -->
@@ -38,5 +39,4 @@ horizontal: false
   </div>
   {%- endif -%}
   {% endfor %}
-
 

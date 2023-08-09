@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Former Members
+title: former members
 importance: 1
 category: Former Members
 ---
