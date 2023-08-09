@@ -12,7 +12,7 @@ category: PI
     </div>
 </div>
 
-Associate Professor with Tenure  
+Associate Professor  
 Center for Quantitative Biology  
 & Peking-Tsinghua Center for Life Sciences  
 Academy for Advanced Interdisciplinary Studies  
@@ -29,7 +29,7 @@ Email: c.song_at_pku.edu.cn
 ## Academic Experience
 
 - Since Aug 2023: Associate Professor with Tenure, Peking University, China
-- Apr 2016 - Jul 2023: Assistant Professor, Peking University, China.
+- Apr 2016 - Jul 2023: Tenure Track Assistant Professor, Peking University, China.
 - 2014-2015: Research Fellow (Marie Curie Fellowship), University of Oxford, UK.
 - 2013: Postdoc (Newton International Fellowship), University of Oxford, UK.
 - 2010-2012: Postdoc (Humboldt Fellowship), Max-Planck Institute for Biophysical Chemistry, Germany.
