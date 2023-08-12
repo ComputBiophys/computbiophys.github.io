@@ -1,8 +1,8 @@
 ---
 layout: page
-title: resources
+title: Resources
 permalink: /resources/
-description: resources developed in the group
+description: Resources developed in the group
 nav: true
 display_categories: [Model & Code, Server]
 horizontal: false

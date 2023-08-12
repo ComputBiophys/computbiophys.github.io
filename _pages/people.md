@@ -1,8 +1,8 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
-description: group members
+description: Group members
 nav: true
 display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
 horizontal: false
@@ -14,29 +14,47 @@ horizontal: false
     </div>
 </div>
 
+<br>
+## Principal Investigator
+**Chen Song**
 
-<!-- pages/people.md -->
-<div class="projects">
-  <!-- Display categorized people -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_people = site.people | where: "category", category -%}
-  {%- assign sorted_people = categorized_people | sort: "importance" %}
-  <!-- Generate cards for each people -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_people -%}
-      {% include people_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_people -%}
-      {% include people.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+
+<br>
+## Postdocs
+
+**Dali WANG** 
+
+**Lei WANG** 
+
+**Nanhao CHEN** 
+
+**Zhongjie HAN** 
+
+<br>
+## Administrative Assistant
+
+**Huijiao REN**
+
+<br>
+## Graduate Students
+
+**Chang LIU**
+
+**Jiaxuan LI**
+
+**Qingyang HU**
+
+**Song YANG**
+
+**Kai KANG**
+
+**Jingze DUAN**
+
+**Zefeng ZHU**
+
+**Lingfeng XUE**
+
+**Ruihan DONG**
+
+**Haozhe GUO**
 
