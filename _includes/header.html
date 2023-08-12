@@ -44,9 +44,18 @@
               {% endfor %}
 
               <!-- About -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
-                  {%- if page.permalink == '/' -%}
+              <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">About
+                  {%- if page.title == "about" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% if site.blog_name %}
+              <!-- Blog -->
+              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
+                  {%- if page.title == "blog" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
