@@ -21,4 +21,4 @@ We aim at revealing the function mechanisms of membrane proteins by using multi-
 
 Our ultimate goal is to contribute to membrane protein- or membrane-targeted drug design and optimization, and thereby to improve people’s health at large.
 
-You can find more information about us <em><a href='http://cqb.pku.edu.cn/songgroup/'>here</a></em>.
+You can find more information about us <strong><a href='http://cqb.pku.edu.cn/songgroup/'>here</a></strong>.
