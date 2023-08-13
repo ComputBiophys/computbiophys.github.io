@@ -1,10 +1,10 @@
 ---
 layout: page
 title: People
-#permalink: /people/
+permalink: /people/
 description: Group members
 nav: true
-#display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
+display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
 horizontal: false
 ---
 
@@ -18,47 +18,30 @@ horizontal: false
 ## Principal Investigator
 - **Chen Song**
 
-
-<br>
 ## Postdocs
 
 - **Dali WANG** 
-
 - **Lei WANG** 
-
 - **Nanhao CHEN** 
-
 - **Zhongjie HAN** 
 
-<br>
 ## Administrative Assistant
 
 - **Huijiao REN**
 
-<br>
 ## Graduate Students
 
 - **Chang LIU**
-
 - **Jiaxuan LI**
-
 - **Qingyang HU**
-
 - **Song YANG**
-
 - **Kai KANG**
-
 - **Jingze DUAN**
-
 - **Zefeng ZHU**
-
 - **Lingfeng XUE**
-
 - **Ruihan DONG**
-
 - **Haozhe GUO**
 
-<br>
 ## Former Members
 
 - **Chunhong LIU**: Graduate Student (CQB), Sep 2016 – July 2022. Chunhong joined BeiGene after leaving the group. 
@@ -72,4 +55,4 @@ horizontal: false
 - **Jiangguo ZHANG**: Undergraduate Student (School of Life Sciences), Apr 2017 – July 2018
 - **Shasha FENG**: Undergraduate Student (School of Life Sciences), Nov 2017 – July 2018
 - **Caixia MA**: Research Assistant, Jul 2017 – Dec 2017
-- **Man XUE**: Research Assistant, Jul 2016 – Jul 2017.
+- **Man XUE**: Research Assistant, Jul 2016 – Jul 2017 
