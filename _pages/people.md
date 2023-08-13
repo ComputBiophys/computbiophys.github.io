@@ -4,7 +4,7 @@ title: People
 #permalink: /people/
 description: Group members
 nav: true
-display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
+#display_categories: [PI, Secretary, Postdocs, Graduate Students, Former Members]
 horizontal: false
 ---
 
