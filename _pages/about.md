@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A computational biophysics group led by Dr. Chen SONG at Peking University. 
+subtitle: A computational biophysics group led by <strong><a href='https://scholar.google.com/citations?user=xDtFlAQAAAAJ&hl=en'>Dr. Chen SONG</a></strong> at Peking University. 
 
 profile:
   align: right
