@@ -24,7 +24,6 @@ horizontal: false
 
 ### Postdoctoral Researchers
 
-- **Dali WANG** 
 - **Lei WANG** 
 - **Nanhao CHEN** 
 - **Zhongjie HAN** 
