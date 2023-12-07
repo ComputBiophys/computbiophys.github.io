@@ -20,7 +20,7 @@ horizontal: false
 
 ### Administrative Assistant
 
-- **Huijiao REN**
+- **Lu WANG**
 
 ### Postdoctoral Researchers
 
