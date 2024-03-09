@@ -20,7 +20,7 @@ horizontal: false
 
 ### Administrative Assistant
 
-- **Lu WANG**
+- **Zhen LI**
 
 ### Postdoctoral Researchers
 
